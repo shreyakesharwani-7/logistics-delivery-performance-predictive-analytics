@@ -1,0 +1,5 @@
+Shipping Mode,Shipments,Average_Actual_Delay,Average_Predicted_Delay,Actual_High_Delay_Shipments,Predicted_High_Delay_Shipments,Actual_High_Delay_Percentage,Predicted_High_Delay_Percentage,Priority
+Second Class,7026,1.97267292912041,1.9950649561348326,4146,7026,59.00939368061486,100.0,High Priority
+First Class,5531,1.0,1.0,0,0,0.0,0.0,Monitor
+Same Day,1961,0.4824069352371239,0.4790344099282308,0,0,0.0,0.0,Monitor
+Standard Class,21586,0.0012971370332622997,-0.005020650724043109,4353,0,20.165848234967108,0.0,Low Priority

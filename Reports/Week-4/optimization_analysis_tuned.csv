@@ -1,0 +1,7 @@
+Metric,Value
+Total Test Shipments,36104.0
+Actual High-Delay Shipments,8499.0
+Predicted High-Delay Shipments,7026.0
+Actual High-Delay Percentage,23.54
+Predicted High-Delay Percentage,19.46
+Delay Threshold (Days),1.0
